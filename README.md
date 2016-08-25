@@ -4,4 +4,4 @@ A 'simple' project, set up to implement [mattrayner/lamp](https://github.com/mat
 ## MySQL User
 The mattrayner/lamp image comes with a root account that has no password (this accountt can only be user locally).
 
-MySQL user `admin` has password `zuTa0tvoIXDl`. We recommend you change this at the earliest moment possible. This account can be used for connection within phpMyAdmin.
+MySQL user `admin` has password `Ifb8XOxfIdQ6`. We recommend you change this at the earliest moment possible. This account can be used for connection within phpMyAdmin.
